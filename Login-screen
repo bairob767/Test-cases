@@ -1,0 +1,11 @@
+STEPS:
+Open a browser
+Enter the test URL in the address bar and press enter
+On the page, there should be an UserID text field
+On the page, there should be a Password text field
+Enter the correct UserID and Password and click the Sign In button
+Enter the incorret UserID and correct Password and click the Sign In button
+Enter the correct UserID and incorrect Password and click the Sign In button
+Enter the incorrect UserID and inconrrect Password and click the Sing In button
+EXPECTED RESULTS...
+ACTUAL RESULTS...
