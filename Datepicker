@@ -1,0 +1,14 @@
+STEPS:
+Check the calendar component is active when the date box is clicked
+Check if the calendar component loads properly after click on any date box
+Check if the calendar control is by default shows the date, month, year as per the system date
+Check if the calendar control is as per dd/mm/yy or mm/dd/yy format
+Check if the calendar component allows forward and backward to select the dates
+Check if the calendar component allows to scroll month field forward and backward
+Check if the today’s date is highlighted or not for default selection of the date box
+Check if the prev and next links are navigable in the date picker control
+Click on the date field select the date and verify if the correct date is shown in the date box
+Click on the date field select the date and verify if the date shown is in mm/dd/yy format
+Click on the date field and check if the right month and year for date picker is shown
+EXPECTED RESULTS...
+ACTUAL RESULTS...
